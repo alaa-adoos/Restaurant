@@ -42,7 +42,7 @@ foods.prototype.print=function(){
 w3.textContent="Fat";
    }
    else 
-   w3.textContent=("132");
+   w3.textContent=("");
    
    table2[0].appendChild(w3);
    const w4=document.createElement('td');
